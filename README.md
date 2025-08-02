@@ -16,3 +16,50 @@ This repo is a collection of:
 ---
 
 
+---
+
+## 📚 Topics Covered
+
+- Arrays & Strings  
+- Recursion & Backtracking  
+- Sorting & Searching  
+- Linked Lists  
+- Stacks & Queues  
+- Trees & Binary Trees  
+- HashMaps & Sets  
+- Graphs & BFS/DFS  
+- Dynamic Programming  
+
+---
+
+## 🎯 Goals
+
+- Improve problem-solving skills
+- Prepare for coding interviews (FAANG & other top companies)
+- Build a strong foundation in core DSA concepts
+
+---
+
+## 🛠 Language Used
+
+- **Java**
+
+---
+
+## 📝 How to Use
+
+You can:
+- Explore solutions by topic folder
+- Run any `.java` file using a Java IDE or terminal
+- Learn patterns and logic for common problems
+
+---
+
+## 🙌 Contributions
+
+This is a personal practice repo, but feel free to suggest improvements or corrections via issues or pull requests.
+
+---
+
+Happy Coding! 😊
+
